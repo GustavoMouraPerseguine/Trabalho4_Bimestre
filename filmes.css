@@ -3,9 +3,9 @@ div a.Imagem{
 	margin-top: 20px;
 }
 
-div.Logo{
-	margin-top: 8px;
-	text-align: center;
+img.Imag{
+	margin-top: 6px;
+	
 }
 
 #menuAnchor {
@@ -23,7 +23,7 @@ div.Logo{
 }
 
 #menuAnchor span:nth-child(2) {
-    top: 18px;
+    top: 10px;
 }
 
 #menuAnchor span {
@@ -37,7 +37,7 @@ div.Logo{
 }
 
 #menuAnchor span:nth-child(3) {
-    top: 28px;
+    top: 20px;
 }
 
 #menuAnchor span {
@@ -51,7 +51,10 @@ div.Logo{
 }
 
 span{
-	margin-left: 250px;
-	margin-top: 10px;
+	margin-left: -30px;
+	margin-top: 7px;
 }
 
+div.Lupa{
+    margin-right: 300px;
+}
