@@ -5,3 +5,13 @@
 .a{
 	color: black;
 }
+
+.Texto{
+	font-family: open sans,helvetica neue,Helvetica,Arial,sans-serif;
+	color: black;
+	font-size: 22px;
+}
+
+.Preço{
+	color: blue;
+}
