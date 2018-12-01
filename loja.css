@@ -17,7 +17,7 @@
 }
 
 .Foto{
-	width: 545px;
+	width: 540px;
 }
 
 .P{
@@ -30,4 +30,12 @@
 
 .V{
 	color: white;
+}
+
+.far{
+	font-size: 35px;
+}
+
+.fas{
+	font-size: 35px;
 }
